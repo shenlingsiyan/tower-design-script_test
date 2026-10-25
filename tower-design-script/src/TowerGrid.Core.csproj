@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>TowerGrid.Core</RootNamespace>
+    <Description>强网格主题塔防的防御塔设计核心库（无引擎依赖，可移植到 Unity/Godot/Blazor）</Description>
+  </PropertyGroup>
+
+</Project>
